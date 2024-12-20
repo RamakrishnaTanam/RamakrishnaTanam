@@ -33,10 +33,6 @@
 
 ![RamakrishnaTanam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamakrishnaTanam&show_icons=true&theme=radical)
 
-**### Contributions**
-- Total Contributions: [57]
-- Pull Requests: [7]
-- Stars: [2]
 
 **### Most Used Languages**
 
