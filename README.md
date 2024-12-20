@@ -22,20 +22,13 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,python,javascript,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins" />
     <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
     <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Data Structures and Algorithms" />
 </div>
 
 <br/>
 <hr/>
-
-<picture aligh="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 <h2 align="center"> Stats </h2>
 <br>
@@ -47,9 +40,12 @@
 
 <hr/>
 
-
+<h2 align="center"> 🐍 Generate Snake Animation </h2>
+<br>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
