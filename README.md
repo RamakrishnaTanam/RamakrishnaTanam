@@ -40,7 +40,6 @@
 
 <hr/>
 
-<h2 align="center"> 🐍 Generate Snake Animation </h2>
 <br>
 <div align="center">
 <picture>
