@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shivakrishna-07&label=Profile%20views&color=0e75b6&style=flat" alt="RamakrishnaTanam" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=RamakrishnaTanam&label=Profile%20views&color=0e75b6&style=flat" alt="RamakrishnaTanam" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=blue&duration=3000&lines=Hi+There!+👋;+Myself++Ramakrishna!;" />
 </h1>
@@ -36,5 +36,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnaTanam&layout=compact&theme=radical" alt="Top Langs" />
 <br/>
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamakrishnaATanam-07&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="RamakrishnaTanam" />
-</div>
