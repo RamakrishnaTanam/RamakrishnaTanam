@@ -36,5 +36,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnaTanam&layout=compact&theme=radical" alt="Top Langs" />
 <br/>
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivakrishna-07&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="RamakrishnaTanam" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamakrishnaATanam-07&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="RamakrishnaTanam" />
 </div>
