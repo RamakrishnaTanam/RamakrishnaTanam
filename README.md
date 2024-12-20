@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=blue&duration=3000&lines=Hi+There!+👋;+Myself++Ramakrishna!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/shivaaa07/" target="_blank">
+  <a href="https://www.linkedin.com/in/ramakrishnatanam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://shivakrishna-07.github.io/Portfolio/" target="_blank">
+  <a href="https://calm-cat-d8c98f.netlify.app/#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
@@ -19,8 +19,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,react,mui,html,css,vscode,github,tailwind,git,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
 </div>
 
 <br/>
@@ -29,8 +29,6 @@
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
-<img width=390 height=220 src="https://github-readme-streak-stats.herokuapp.com/?user=shivakrishna-07&theme=react&border_radius=10" alt="shivakrishna-07" />
-<img width=390 height=219 src="https://github-readme-stats.vercel.app/api?username=shivakrishna-07&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="shivakrishna-07" />
+ <img src="https://github-readme-stats.vercel.app/api?username=RamakrishnaTanam&show_icons=true&theme=radical" alt="RamakrishnaTanam's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnaTanam&layout=compact&theme=radical" alt="Top Langs" />
 <br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivakrishna-07&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="shivakrishna-07" />
-</div>
