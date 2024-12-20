@@ -19,7 +19,6 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb" />
     <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
 </div>
 
