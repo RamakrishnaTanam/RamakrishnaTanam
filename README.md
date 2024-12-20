@@ -21,6 +21,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
 </div>
+ <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
+</div>
 
 <br/>
 <hr/>
