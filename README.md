@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to learning a
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/RamakrishnaTanam)
-- [Portfolio](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RamakrishnaTanam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 ## 🛠️ Skills
 
@@ -32,6 +32,11 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to learning a
 ## 📊 GitHub Stats
 
 ![RamakrishnaTanam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamakrishnaTanam&show_icons=true&theme=radical)
+
+### Contributions
+- Total Contributions: [Total Contributions Count]
+- Pull Requests: [Total PRs Count]
+- Stars: [Total Stars Count]
 
 ### Most Used Languages
 
