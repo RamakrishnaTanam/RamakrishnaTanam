@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb" />
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
+    <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
 </div>
 
 <br/>
@@ -30,5 +30,7 @@
 <br>
 <div align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=RamakrishnaTanam&show_icons=true&theme=radical" alt="RamakrishnaTanam's GitHub stats" />
+
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnaTanam&layout=compact&theme=radical" alt="Top Langs" />
 <br/>
