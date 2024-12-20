@@ -1,9 +1,6 @@
 # Hi there, I'm Ramakrishna Tanam 👋
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to learning and exploring new technologies. 🚀
-
-## 🔗 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrishnatanam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://calm-cat-d8c98f.netlify.app/)
 
