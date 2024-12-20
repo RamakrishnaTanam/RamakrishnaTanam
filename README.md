@@ -21,8 +21,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux,cicd pipeline" /><br>- 
-    <img src="https://skillicons.dev/icons?i=jenkins,xampp,servlet" />
+    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux,cicd pipeline,jenkins" /><br>- 
 </div>
 
 <br/>
