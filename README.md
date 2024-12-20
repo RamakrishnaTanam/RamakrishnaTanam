@@ -1,13 +1,18 @@
-**# Hi there, I'm Ramakrishna Tanam 👋 #**
+****# Hi there, I'm Ramakrishna Tanam 👋 #****
 
-**Welcome to my GitHub profile! I'm a passionate developer dedicated to learning and exploring new technologies.**
+
+**
+**Welcome to my GitHub profile! I'm a passionate developer dedicated to learning and exploring new technologies.****
+
 
 **## 🔗 Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrishnatanam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://calm-cat-d8c98f.netlify.app/)
 
+
 **## 🛠️ Languages & Frameworks & Tools**
+
 
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,14 +33,14 @@
 - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 - ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-FFCA28?style=for-the-badge&logo=thunderclient&logoColor=black)
 - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+- 
 
 **## 📊 GitHub Stats**
 
 ![RamakrishnaTanam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamakrishnaTanam&show_icons=true&theme=radical)
-
-
 **### Most Used Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnaTanam&layout=compact&theme=radical)
+
 
 **Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!**
