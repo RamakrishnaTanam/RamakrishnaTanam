@@ -10,24 +10,24 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to learning a
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RamakrishnaTanam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 ## 🛠️ Skills
 
-### Languages
-- [Language 1]
-- [Language 2]
-- [Language 3]
+- **Languages:**
+  - [Language 1]
+  - [Language 2]
+  - [Language 3]
 
-### Frameworks
-- [Framework 1]
-- [Framework 2]
-- [Framework 3]
+- **Frameworks:**
+  - [Framework 1]
+  - [Framework 2]
+  - [Framework 3]
 
-### Tools
-- [Tool 1]
-- [Tool 2]
-- [Tool 3]
+- **Tools:**
+  - [Tool 1]
+  - [Tool 2]
+  - [Tool 3]
 
 ## 📊 GitHub Stats
 
