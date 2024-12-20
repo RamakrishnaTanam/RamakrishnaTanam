@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=blue&duration=3000&lines=Hi+There!+👋;+Myself++Ramakrishna!;" />
 </h1>
 
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ramakrishnatanam" target="_blank">
@@ -14,9 +14,9 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<hr/>
+
+<h2 align="center"> Languages - Frameworks - Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,mysql,sqlite,numpy,pandas,openai,jupyter,redux,jenkins" /><br>
