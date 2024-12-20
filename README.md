@@ -21,7 +21,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux,cicd pipeline" /><br>- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+    
     <img src="https://skillicons.dev/icons?i=jenkins" />
 </div>
 
