@@ -21,7 +21,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+    <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Data Structures and Algorithms" />
 </div>
 
 <br/>
