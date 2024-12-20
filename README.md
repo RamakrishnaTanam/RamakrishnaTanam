@@ -19,20 +19,16 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,mongodb,c,mysql,sql,numpy,pandas,chatgpt,jupytornotebok,redux,CI/CD,Datastructure and algos" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,mysql,sqlite,numpy,pandas,openai,jupyter,redux,jenkins" /><br>
 </div>
-<!--  <img src="https://skillicons.dev/icons?i=react.js,html,css,vscode,github,git,express,mongodb,nodejs,python,javascript,express,mongodb,c,mysql,redux,eql,numpy,pandas,chatgpt,postman,jupytornotebok" /><br>
-</div> -->
 
 <br/>
 <hr/>
 
 <h2 align="center"> Stats </h2>
 <br>
-<div align=center>
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=RamakrishnaTanam&show_icons=true&theme=radical" alt="RamakrishnaTanam's GitHub stats" />
-
-    
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnaTanam&layout=compact&theme=radical" alt="Top Langs" />
-<br/>
-
+</div>
