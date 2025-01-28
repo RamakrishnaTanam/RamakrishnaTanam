@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=blue&duration=3000&lines=Hi+There!+👋;+Myself++Ramakrishna!;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ramakrishnatanam" target="_blank">
