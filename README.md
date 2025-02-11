@@ -1,10 +1,6 @@
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=RamakrishnaTanam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=blue&duration=3000&lines=Hi+There!+👋;+I'm+Ramakrishna!;" />
-</h1>
+</p>
 
 <h3 align="center">A Passionate Software Engineer</h3>
 
@@ -22,14 +18,29 @@
 <h2 align="center">Languages, Frameworks, and Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" alt="Frontend" />
     <br>
-    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,python,javascript,mysql" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,python,javascript,mysql" alt="Backend" />
     <br>
-    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=sqlite,numpy,pandas,openai,jupyter,redux" alt="Data Science" />
     <br>
     <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=travisci&logoColor=white" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD" />
     <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Data Structures and Algorithms" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">Projects</h2>
+<br/>
+<div align="center">
+    <!-- Add your project links and descriptions here -->
+    <a href="https://github.com/RamakrishnaTanam/project1" target="_blank">Project 1</a>: Brief description of Project 1.
+    <br>
+    <a href="https://github.com/RamakrishnaTanam/project2" target="_blank">Project 2</a>: Brief description of Project 2.
 </div>
 
 <br/>
@@ -52,3 +63,7 @@
         <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
     </picture>
 </div>
+
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=RamakrishnaTanam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
